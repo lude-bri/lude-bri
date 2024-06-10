@@ -1,16 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=1fcf9a&text=Hello!&fontAlignY=73&animation=fadeIn&fontColor=f7fcfb" />
 </p>
-<h1 align="center"> I'm Luigi</h1>
+<h1 align="center"> I'm Luigi </h1>
 
-<p> WELCOME!! </p>
-Software Engineer student at 42!
+**`Digital Sociologist and Software Engineer`**
 
-- 🔭 I’m currently working on **Pipex**
-
-- 🌱 I’m currently learning **Pipes, Data Structures and UNIX**
-
-- 📫 How to reach me **luigi.piantavinha@gmail.com**
+I bridge the gap between technology and society, holding dual expertise as a Digital Sociologist and Software Engineer. With a profound understanding of social dynamics and technological advancements, I am dedicated to leveraging software solutions to address complex societal challenges! All coding projects are built from the ground up, from planning and designing all the way to solving problems with code!
 
 <h2> ⚡ &nbsp;Languages </h2>
 <p align="left"> 
