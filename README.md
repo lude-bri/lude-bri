@@ -14,7 +14,7 @@ Software Engineer student at 42!
 
 <h2> ⚡ &nbsp;Languages </h2>
 <p align="left"> 
-<a href="https://www.gnu.org/software/bash/"><img src="https://bashlogo.com/img/symbol/png/full_colored_light.png" alt="bash" width="50" height="50"/> </a> 
+<a href="https://www.gnu.org/software/bash/" style="text-decoration:none"> <img src="https://bashlogo.com/img/symbol/png/full_colored_light.png" alt="bash" width="50" height="50"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>  </a>  
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="lua" width="50" height="50"/> </a> 
 <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="50" height="50"/> </a>  </p>
