@@ -3,7 +3,7 @@
 </p>
 <h1 align="center"> I'm Luigi Piantavinha :D </h1>
 
-WELCOME!!
+<p> WELCOME!! </p>
 Software Engineer student at 42!
 - 🔭 I’m currently working on **Pipex**
 
