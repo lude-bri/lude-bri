@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Hello!&fontAlign=58&animation=fadeIn"/>
 </p>
-<h1 align="center"> I'm Luigi Piantavinha <h5 align="center">Software Engineer Student at 42!</h5> </h1>
+<h1 align="center"> I'm Luigi Piantavinha 
+  Software Engineer Student at 42! </h1>
 
 - 🔭 I’m currently working on **Pipex**
 
