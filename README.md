@@ -7,6 +7,16 @@
 
 I bridge the gap between technology and society, holding dual expertise as a Digital Sociologist and Software Engineer. With a profound understanding of social dynamics and technological advancements, I am dedicated to leveraging software solutions to address complex societal challenges! All coding projects are built from the ground up, from planning and designing all the way to solving problems with code!
 
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+</p>
+
 <h2> ⚡ &nbsp;Languages </h2>
 <p align="left"> 
 <a href="https://www.gnu.org/software/bash/"><img src="https://bashlogo.com/img/symbol/png/full_colored_light.png" alt="bash" width="50" height="50"/></a>&nbsp;&nbsp;
