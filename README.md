@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=100&color=1fcf9a&text=Hello!&fontAlign=58&animation=fadeIn&fontColor=fcfcfc"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=1fcf9a&text=Hello!&fontAlign=58&animation=fadeIn&fontColor=fcfcfc"/>
 </p>
 <h1 align="center"> I'm Luigi Piantavinha! </h1>
 
