@@ -11,9 +11,7 @@
 <hr>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" ><img src="https://bashlogo.com/img/symbol/png/full_colored_light.png" alt="bash" width="50" height="50"/></a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/></a><a href="https://www.lua.org/home.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="lua" width="50" height="50"/></a><a href="https://html.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="50" height="50"/></a> </p>
 
-<h3 align="left">Tools 🛠 </h3>
-<hr>
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Tools </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/OS-Linux-icon.png" alt="linux" width="50" height="50"/></a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="50" height="50"/></a><a href="https://neovim.io/"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/nvim-icon.png" alt="nvim" width="50" height="50"/></a><a href="https://github.com/tmux/tmux/wiki"><img src="https://cdn.worldvectorlogo.com/logos/tmux.svg" alt="tmux" width="50" height="50"/><a href="https://www.sourceware.org/gdb/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/The_GNU_logo.png" alt="gdb" width="50" height="50"/> </a> </p>
