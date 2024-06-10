@@ -31,7 +31,7 @@ Software Engineer student at 42!
 
 <h2 align="center"> &nbsp;My stats! 🔥 </h2>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lude-bri&show_icons=true&locale=en&theme=dark" alt="lude-bri" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lude-bri&show_icons=true&locale=en&theme=merko&layout=compact" alt="lude-bri" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lude-bri&show_icons=true&locale=en&theme=dark&layout=compact" alt="lude-bri" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
