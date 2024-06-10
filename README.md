@@ -14,9 +14,10 @@
 <h3 align="left">Tools 🛠 </h3>
 <hr>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/OS-Linux-icon.png" alt="linux" width="50" height="50"/></a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="50" height="50"/></a><a href="https://neovim.io/"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/nvim-icon.png" alt="nvim" width="50" height="50"/></a><a href="https://github.com/tmux/tmux/wiki"><img src="https://cdn.worldvectorlogo.com/logos/tmux.svg" alt="tmux" width="50" height="50"/><a href="https://www.sourceware.org/gdb/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/The_GNU_logo.png" alt="gdb" width="50" height="50"/> </a> </p>
-
+<hr>
 <h3 align="center"> My stats! 🔥 </h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lude-bri&show_icons=true&locale=en&theme=dark&layout=compact" alt="lude-bri" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lude-bri&show_icons=true&locale=en&theme=dark&layout=compact" alt="lude-bri" />
+</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lude-bri&show_icons=true&locale=en&theme=dark" alt="lude-bri" /></p>
 
 [![lude-bri's GitHub | Stats](https://stats.quine.sh/lude-bri/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=lude-bri)
