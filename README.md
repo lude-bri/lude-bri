@@ -17,7 +17,7 @@
 
 <h3 align="center"> My stats! 🔥 </h3>
 <hr>
-<p><img class="center" src="https://github-readme-stats.vercel.app/api?username=lude-bri&show_icons=true&locale=en&theme=dark" alt="lude-bri" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lude-bri&show_icons=true&locale=en&theme=dark" alt="lude-bri" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lude-bri&show_icons=true&locale=en&theme=dark&layout=compact" alt="lude-bri" />
 </p>
 
