@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=1fcf9a&text=Hello!&fontAlignY=73&animation=fadeIn&fontColor=f7fcfb" />
 </p>
-<h1 align="center"> I'm;&nbsp;Luigi</h1>
+<h1 align="center"> I'm &nbsp;Luigi</h1>
 
 <p> WELCOME!! </p>
 Software Engineer student at 42!
