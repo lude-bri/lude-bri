@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Hello!&fontAlign=58&animation=fadeIn"/>
 </p>
-<h1 align="center"> I'm Luigi Piantavinha :D </h1>
+<h1 align="center"> I'm Luigi Piantavinha! </h1>
 
-<p> WELCOME!! </p>
+<p> *WELCOME!!* </p>
 Software Engineer student at 42!
 - 🔭 I’m currently working on **Pipex**
 
