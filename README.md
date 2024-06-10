@@ -21,3 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lude-bri&show_icons=true&locale=en" alt="lude-bri" /></p>
 
+[![lude-bri's GitHub | Stats](https://stats.quine.sh/lude-bri/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=lude-bri)
