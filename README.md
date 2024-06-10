@@ -1,5 +1,6 @@
 <h1 align="center">Hello!! 👋 I'm Luigi Piantavinha</h1>
-<h3 align="center">I am a Software Engineer Student at 42!</h3>
+<hr>
+<h4 align="center">I am a Software Engineer Student at 42!</h4>
 
 - 🔭 I’m currently working on **Pipex**
 
@@ -15,8 +16,7 @@
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/OS-Linux-icon.png" alt="linux" width="50" height="50"/></a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="50" height="50"/></a><a href="https://neovim.io/"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/nvim-icon.png" alt="nvim" width="50" height="50"/></a><a href="https://github.com/tmux/tmux/wiki"><img src="https://cdn.worldvectorlogo.com/logos/tmux.svg" alt="tmux" width="50" height="50"/><a href="https://www.sourceware.org/gdb/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/The_GNU_logo.png" alt="gdb" width="50" height="50"/> </a> </p>
 
-<h3 align="center"> My stats! 🔥 </h3>
-<hr>
+<h2 align="center"> &nbsp;My stats! 🔥 </h2>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lude-bri&show_icons=true&locale=en&theme=merko" alt="lude-bri" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lude-bri&show_icons=true&locale=en&theme=merko&layout=compact" alt="lude-bri" /> </p>
 
