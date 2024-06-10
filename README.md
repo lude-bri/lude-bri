@@ -1,6 +1,6 @@
 <h1 align="center">Hello!! 👋 I'm Luigi Piantavinha</h1>
 <hr>
-<h4 align="center">I am a Software Engineer Student at 42!</h4>
+<h3 align="center">I am a Software Engineer Student at 42!</h3>
 
 - 🔭 I’m currently working on **Pipex**
 
