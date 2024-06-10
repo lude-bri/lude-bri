@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Hello!&reversal=false&fontAlign=60&fontSize=70&animation=fadeIn&descAlign=76"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Hello!&reversal=false&fontAlign=60&fontSize=70&animation=fadeIn&descAlign=76&textBg=false&fontAlignY=58"/>
 </p>
 
-<p align="center"> Luigi here! </p>
-<h3 align="center">I am a Software Engineer Student at 42!</h3>
+<h3 align="center"> I'm Luigi Piantavinha </h3>
+<h5 align="center">Software Engineer Student at 42!</h5>
 
 - 🔭 I’m currently working on **Pipex**
 
