@@ -3,8 +3,9 @@
 </p>
 <h1 align="center"> I'm Luigi Piantavinha! </h1>
 
-<p> *WELCOME!!* </p>
+<p> **WELCOME!!** </p>
 Software Engineer student at 42!
+
 - 🔭 I’m currently working on **Pipex**
 
 - 🌱 I’m currently learning **Pipes, Data Structures and UNIX**
