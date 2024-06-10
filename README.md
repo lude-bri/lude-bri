@@ -21,12 +21,12 @@ Software Engineer student at 42!
 
 <h2> 🚀 &nbsp;Tools </h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/> </a> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
-<img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/OS-Linux-icon.png" alt="linux" width="50" height="50"/> </a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="50" height="50"/> </a> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/> </a>&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>&nbsp;&nbsp;
+<img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/OS-Linux-icon.png" alt="linux" width="50" height="50"/> </a>&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="50" height="50"/> </a>&nbsp;&nbsp; 
 <img src="https://cdn.worldvectorlogo.com/logos/tmux.svg" alt="tmux" width="50" height="50"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/The_GNU_logo.png" alt="gdb" width="50" height="50"/> </a> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/The_GNU_logo.png" alt="gdb" width="50" height="50"/> </a>&nbsp;&nbsp; 
 </p>
 
 <h2 align="center"> &nbsp;My stats! 🔥 </h2>
