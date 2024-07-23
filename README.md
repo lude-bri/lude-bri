@@ -17,12 +17,13 @@ I bridge the gap between technology and society, holding dual expertise as a Dig
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
 <hr>
-<h2> 👨‍💻 &nbsp;Languages </h2>
+<h2>👨‍💻 &nbsp;Languages </h2>
 <p align="left" />
 <a href="https://www.gnu.org/software/bash/"><img src="https://bashlogo.com/img/symbol/png/full_colored_light.png" alt="bash" width="50" height="50"/></a>&nbsp;&nbsp;
 <a href="https://www.learn-c.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/></a>&nbsp;&nbsp;
 <a href="https://www.lua.org"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="lua" width="50" height="50"/></a>&nbsp;&nbsp; 
-<a href="https://html.spec.whatwg.org"><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="50" height="50"/> </a> </p>
+<a href="https://html.spec.whatwg.org"><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="50" height="50"/> </a>
+</p>
 
 <h2> 🧰 &nbsp;Tools </h2>
 <p align="left">
