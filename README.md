@@ -26,7 +26,6 @@ I bridge the gap between technology and society, holding dual expertise as a Dig
 <a href="https://www.markdownguide.org"><img src="https://boost.space/wp-content/uploads/2022/06/markdown.png" alt="markdown" width="50" height="50"/> </a>
 </p>
 
-
 <h2> 🧰 &nbsp;Tools </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="nvim" width="50" height="50" /> </a>&nbsp;&nbsp;
