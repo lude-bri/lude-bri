@@ -22,7 +22,8 @@ I bridge the gap between technology and society, holding dual expertise as a Dig
 <a href="https://www.gnu.org/software/bash/"><img src="https://bashlogo.com/img/symbol/png/full_colored_light.png" alt="bash" width="50" height="50"/></a>&nbsp;&nbsp;
 <a href="https://www.learn-c.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/></a>&nbsp;&nbsp;
 <a href="https://www.lua.org"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="lua" width="50" height="50"/></a>&nbsp;&nbsp; 
-<a href="https://html.spec.whatwg.org"><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="50" height="50"/> </a>
+<a href="https://html.spec.whatwg.org"><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="50" height="50"/></a>&nbsp;
+<a href="https://html.spec.whatwg.org"><img src="https://boost.space/wp-content/uploads/2022/06/markdown.png" alt="markdown" width="50" height="50"/> </a>
 </p>
 
 <h2> 🧰 &nbsp;Tools </h2>
