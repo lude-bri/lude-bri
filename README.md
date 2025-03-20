@@ -5,7 +5,7 @@
 
 **`Digital Sociologist and Software Engineer`**
 
-I bridge the gap between technology and society, holding dual expertise as a Digital Sociologist and Software Engineer. With a profound understanding of social dynamics and technological advancements, I am dedicated to leveraging software solutions to address complex societal challenges! All coding projects are built from the ground up, from planning and designing all the way to solving problems with code!
+I bridge the gap between technology and society, holding dual expertise as a Digital Sociologist and Software Engineer. With a understanding of social dynamics and technological advancements, I am dedicated to leveraging software solutions to address complex societal challenges! All coding projects are built from the ground up, from planning and designing all the way to solving problems with code!
 
 <!-- Social icons section -->
 <p align="center">
